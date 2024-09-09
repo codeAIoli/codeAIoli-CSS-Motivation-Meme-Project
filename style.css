@@ -1,0 +1,28 @@
+body {
+    background-image: 
+    url(https://w0.peakpx.com/wallpaper/39/146/HD-wallpaper-indiana-fever-creative-3d-logo-yellow-background-american-basketball-club-wnba-indianapolis-usa-3d-art-basketball-indiana-fever-3d-logo.jpg);
+    background-size: cover;      /* Makes the background image cover the entire screen */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+     background-attachment: fixed;
+
+}
+    
+h1 {
+    text-transform: uppercase;
+    font-size: 1rem;
+  }
+  
+  .container {
+    width:50%;
+    margin-left:25%;
+    margin-top: 100px;
+    color: rgb(10, 10, 10);
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+  
+  .motivation-img {
+    border: 5px solid rgb(232, 68, 18);
+    width: 100%;
+  }
